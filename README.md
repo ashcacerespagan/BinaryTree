@@ -1,2 +1,2 @@
 # BinaryTree
-A Java project for UMGC coursework.
+Binary tree validator with CLI output, traversals, and structural checks.
