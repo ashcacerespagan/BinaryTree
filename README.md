@@ -16,6 +16,16 @@ This interactive JavaFX application allows users to build, manipulate, and visua
 
 ---
 
+## 🧭 Screenshots
+| Search Highlight | Zoomed Out | Long Skewed Tree | Traversal Result |
+|------------------|------------|------------------|------------------|
+| ![Search](./Screenshots/Screenshot%202025-05-26%20at%2010.48.08%E2%80%AFPM.png) | ![Zoom](./Screenshots/Screenshot%202025-05-26%20at%2010.48.21%E2%80%AFPM.png) | ![Long Tree](./Screenshots/Screenshot%202025-05-26%20at%2010.48.33%E2%80%AFPM.png) | ![Traversal](./Screenshots/Screenshot%202025-05-26%20at%2010.48.43%E2%80%AFPM.png) |
+| Save Dialog | Exported PNG | Tree View w/ Insert | Search Result |
+|----------------|--------------|---------------------|----------------|
+| ![Save](./Screenshots/Screenshot%202025-05-26%20at%2010.49.39%E2%80%AFPM.png) | ![Export](./Screenshots/Screenshot%202025-05-26%20at%2010.49.52%E2%80%AFPM.png) | ![Insert](./Screenshots/Screenshot%202025-05-26%20at%2010.50.17%E2%80%AFPM.png) | ![Found](./Screenshots/Screenshot%202025-05-26%20at%2010.50.17%E2%80%AFPM.png) |
+
+---
+
 ## 📦 Requirements
 - Java 17 or later
 - JavaFX SDK (configured in module path)
